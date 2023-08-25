@@ -11,8 +11,8 @@ Entre las ventajas que tiene MVVM - Clean:
 - Fácil de mantener, ya que la lógica de negocio está separada de la vista y el network layer.
 - Una de las reglas que se deben de seguir es hacer que la regla de inyección de dependencias se cumpla como en el diagrama. En otras palabras, la capa de Dominio no debe tener ningún import de UIKi
 - Uso de principios SOLID
+![high_level_solution](https://github.com/mikeshep/currency_converter/assets/5679044/d5f26314-68f2-4b5b-9796-0fff33918184)
 
-![alt text](https://github.com/mikeshep/yape/blob/main/readme_source/high_level_solution.jpg?raw=true)
 
 **Presentation Layer**
 
