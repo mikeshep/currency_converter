@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "95068E15-B92C-410B-B83F-B634A5D519E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency-Converter/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - a1de763a931a43da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - 79c162a75b19a9d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "964">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - d1808136630397dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - 36ec095e04bac728"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - a1de763a931a43da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - 79c162a75b19a9d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - d1808136630397fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - 36ec095e04bac709"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - a1de763a931a43fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "1511A6C8-E96E-44EF-87FC-A3EB7A5E631C - 79c162a75b19a9f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2975A95F-3717-4645-84D5-0FA3246B1FFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency-Converter/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2975A95F-3717-4645-84D5-0FA3246B1FFA - a1de763a931a4398"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "2975A95F-3717-4645-84D5-0FA3246B1FFA - a1de763a931a4398"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1664">
+               </Location>
+               <Location
+                  uuid = "2975A95F-3717-4645-84D5-0FA3246B1FFA - a1de763a931a43b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F17C0BB-7E08-4955-A668-8D12DC9BFA06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency-Converter/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F17C0BB-7E08-4955-A668-8D12DC9BFA06 - a1de763a931a4490"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1384">
+               </Location>
+               <Location
+                  uuid = "0F17C0BB-7E08-4955-A668-8D12DC9BFA06 - a1de763a931a44b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1384">
+               </Location>
+               <Location
+                  uuid = "0F17C0BB-7E08-4955-A668-8D12DC9BFA06 - a1de763a931a44d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BF6CD27-3BF8-4DB7-9210-47350A5F005B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency-Converter/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BF6CD27-3BF8-4DB7-9210-47350A5F005B - a1de763a931a452e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1524">
+               </Location>
+               <Location
+                  uuid = "9BF6CD27-3BF8-4DB7-9210-47350A5F005B - a1de763a931a454f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1524">
+               </Location>
+               <Location
+                  uuid = "9BF6CD27-3BF8-4DB7-9210-47350A5F005B - a1de763a931a4490"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00023866-55B2-4484-9E5A-6A75506CA47F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency-Converter/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00023866-55B2-4484-9E5A-6A75506CA47F - a1de763a931a45ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1820">
+               </Location>
+               <Location
+                  uuid = "00023866-55B2-4484-9E5A-6A75506CA47F - 79c162a75b19afef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "00023866-55B2-4484-9E5A-6A75506CA47F - a1de763a931a45ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1992">
+               </Location>
+               <Location
+                  uuid = "00023866-55B2-4484-9E5A-6A75506CA47F - 79c162a75b19afef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "00023866-55B2-4484-9E5A-6A75506CA47F - a1de763a931a450d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1976">
+               </Location>
+               <Location
+                  uuid = "00023866-55B2-4484-9E5A-6A75506CA47F - 79c162a75b19af0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A334CAC-31FB-47C8-BF0F-44F5C97E8D4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency-Converter/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A334CAC-31FB-47C8-BF0F-44F5C97E8D4E - a1de763a931a45aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2152">
+               </Location>
+               <Location
+                  uuid = "5A334CAC-31FB-47C8-BF0F-44F5C97E8D4E - 79c162a75b19afa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "5A334CAC-31FB-47C8-BF0F-44F5C97E8D4E - a1de763a931a45aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2364">
+               </Location>
+               <Location
+                  uuid = "5A334CAC-31FB-47C8-BF0F-44F5C97E8D4E - 79c162a75b19afa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "5A334CAC-31FB-47C8-BF0F-44F5C97E8D4E - a1de763a931a45cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2352">
+               </Location>
+               <Location
+                  uuid = "5A334CAC-31FB-47C8-BF0F-44F5C97E8D4E - 79c162a75b19afc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09C91E72-6990-4A72-A853-27A8EF6EF9A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency-Converter/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09C91E72-6990-4A72-A853-27A8EF6EF9A6 - a1de763a931a44f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "09C91E72-6990-4A72-A853-27A8EF6EF9A6 - a1de763a931a44f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1056">
+               </Location>
+               <Location
+                  uuid = "09C91E72-6990-4A72-A853-27A8EF6EF9A6 - a1de763a931a44f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1292">
+               </Location>
+               <Location
+                  uuid = "09C91E72-6990-4A72-A853-27A8EF6EF9A6 - a1de763a931a4414"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  uuid = "09C91E72-6990-4A72-A853-27A8EF6EF9A6 - a1de763a931a4414"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Currency_Converter.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: Currency_Converter.Router, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "Currency-Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mauriciot/Documents/Currency-Converter/Currency-Converter/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
