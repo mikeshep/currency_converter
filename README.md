@@ -29,3 +29,6 @@ La capa de Datos implementa los repositorios, en este caso, serían los Servicio
 Los Servicios son responsables de coordinar los datos entre las diferentes fuentes de datos: Backend o Bases de datos
 
 La capa de Datos depende enteramente de la capa de Dominio
+
+** IMPORTANT **
+New Key Update: 5fabd1458efc3fceeb9e347487126457
